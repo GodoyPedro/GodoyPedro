@@ -16,4 +16,5 @@ En tecnologias y bases de datos:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
 Contacto:
+
 <a href="https://www.linkedin.com/in/p-godoy/" rel="nofollow"><img src="https://camo.githubusercontent.com/63006d6145cf91967f950f5f7397e757928ab7d086dea8764c2e125837f31f41/68747470733a2f2f692e696d6775722e636f6d2f4552555a526e752e706e67" alt="Linkedin media logo" data-canonical-src="https://i.imgur.com/ERUZRnu.png" style="max-width: 100%;"></a>
