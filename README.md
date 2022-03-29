@@ -1,7 +1,7 @@
 
 Mi nombre es Pedro Godoy, soy estudiante de la carrera Ingenieria en Computacion en UNTREF
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodoyPedro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodoyPedro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
