@@ -13,7 +13,7 @@ Mi nombre es Pedro Godoy :wave:, soy estudiante de la carrera Ingenieria en Comp
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodoyPedro&layout=compact&bg_color=59371c)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodoyPedro&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 :phone: Contacto:
 
